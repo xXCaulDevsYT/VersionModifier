@@ -22,7 +22,7 @@
 
       @mkdir($this->dataPath());
 
-      $this->cfg = new Config($this->dataPath() . "config.yml", Config::YAML, array("page_1" => array("message_1" => "This server is running ImagicalMine 1.4 [ELITE] implementing API version 2.0.0 for Minecraft: PE v0.14.x alpha (protocol version 46)")));
+      $this->cfg = new Config($this->dataPath() . "config.yml", Config::YAML, array("page_1" => array("message_1" => "This Server is running EmeraldPickle [xXCaulDevsYTv1] minecraft versions 1.5.0 - 6.6.6 Motherfuckers suck on this dick!")));
 
     }
 
